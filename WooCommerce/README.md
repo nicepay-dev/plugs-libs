@@ -30,9 +30,9 @@ Configure it from WooCommerce > Settings > Payment > Nicepay paymethod > Manage 
 
 Mandatory parameter on option configure : 
 
-X-CLIENT-KEY = value Merchant ID from NICEPay
-privateKey = value Key private
-Client Secret = value client secret
+X-CLIENT-KEY = value Merchant ID from NICEPay, 
+privateKey = value Key private, 
+Client Secret = value client secret.
 
 Payment Method Feature:
 
